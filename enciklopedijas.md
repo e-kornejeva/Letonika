@@ -112,6 +112,8 @@ Vēstures enciklopēdijas laika kartes attēls pieejams šeit: https://letonika.
 #### URL: https://letonika.lv/article.aspx?id=laikakarte
 #### IMG: https://letonika.lv/articles/pictures/TIME.GIF
 
+Vēstures enciklopēdijas laika karte pieejama: https://letonika.lv/article.aspx?id=laikakarte, attēls: https://letonika.lv/articles/pictures/TIME.GIF
+
 ## LATVIJAS KULTŪRAS KANONS
 
 KULTŪRAS VĒRTĪBAS

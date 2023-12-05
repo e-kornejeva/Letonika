@@ -5,8 +5,8 @@
 #### IMG: https://www.letonika.lv/audiogramatas/covers/859277_b.png?t=1
 
 	
-RŪDOLFS BLAUMANIS
-NĀVES ĒNĀ
+Autors: RŪDOLFS BLAUMANIS
+Noveles nosaukums: NĀVES ĒNĀ
 
 Arvien vēl pūta dienvidus vakara vējš, un arvien vēl milzīgais ledus gabals peldēja tālāk un tālāk jūrā iekšā. Uz ledus gabala atradās četrpadsmit zvejnieki un divi zirgi. Ļaudis bij nodarbojušies ar āliņģu ciršanu un tīklu laišanu ūdenī, un neviens no viņiem nebij pamanījis, ka ledus no jūrmalas bij sācis virzīties projām. Tikai kad glābšanās vairs nebij iespējama, viņi uz nelaimi bij kļuvuši uzmanīgi. Zirgs bij sācis tecēt uz malu, Kārlēns, sešpadsmit gadu vecs zeņķis, tam ar otru bij dzinies pakaļ un viņu sasniedzis no malas taisni tādā attālumā, no kura varēja redzēt, ka ledus stūmās projām. Ar joni zēns nu bij atgriezies atpakaļ un biedriem paziņojis notikumu, bet, kad tie visi bij saskrējuši pie ledus gabala malas, tad vairs nebij cerības aizpeldēt uz krastu. Skaru Juris, kuram mājā bij sieva ar trim bērniem, tomēr no sava izmisuma bij ļāvies pārvarēties, bij ielēcis ūdenī, un biedri bij redzējuši, kā tas netālu no malas bij nogrimis.
 
@@ -693,83 +693,52 @@ tezaurs.lv:  https://tezaurs.lv
 
 letonika.lv skaidrojošā vārdnīca https://letonika.lv/groups/default.aspx?g=1&r=1107
 
-## Latvijas vēstures enciklopēdija
+## Noveles tapšana
 
-#### URL: https://letonika.lv/groups/default.aspx?g=1&r=2
-#### IMG: https://letonika.lv/groups/pictures/firstPages/bilde2.PNG
+Pirmpublicējums: 1899. gadā, “Mājas Viesa Mēnešrakstā”. Iznākusi atsevišķā izdevumā 1900. gadā. Autora Rūdolfa Blaumaņa tulkojumā 1900. gadā publicēta vācu valodā.
 
-Par "Latvijas vēstures enciklopēdiju"
-Šeit varat iegūt informāciju par notikumiem, personālijām, faktiem un pētījumiem, sākot no pirmo cilvēku ieceļošanas līdz pat visjaunākajai mūsu valsts vēsturei. Informācija ir apkopota 688 šķirkļos, kas papildināti ar 860 gleznām, kartēm, fotogrāfijām un diagrammām, kā arī audio un videoierakstiem. Enciklopēdijas šķirkļi ir strukturēti gan pēc tēmas, gan pēc laika perioda, kas ļauj meklēt un atlasīt nepieciešamo informāciju (sk. izvērsto meklēšanu). Enciklopēdijas saturs pēdējo reizi ir pārskatīts un atjaunots 2007. gada sākumā.
-Šī "Latvijas vēstures enciklopēdija" ir tapusi, Tildes speciālistiem sadarbojoties ar Latvijas Universitātes un Latvijas Zinātņu akadēmijas vēstures speciālistiem galvenās redaktores Aijas Malvīnes Krūzes vadībā. Šķirkļu autori ir Armands Vijups, Valdis Klišāns, Gvido Straube, Irēne Šneidere un Veronika Kučinska. Izmantoti materiāli no Valsts kinofotofonodokumentu arhīva, Latvijas Nacionālās bibliotēkas, Raiņa Literatūras un mākslas vēstures muzeja, Latvijas Kara muzeja, kā arī privātkolekcijām. Enciklopēdijas tapšanu finansiāli atbalstījis Sorosa fonds Latvija.
+Uzziņai: Rūdolfa Blaumaņa brālis Arvīds Blaumanis par ierosmi noveles “Nāves ēnā” notikumam raksta: “Dažreiz avīzēs var lasīt, ka zvejnieki ziemu uz ledus gabala atrauti no pārējā, peldējuši labu laiku, kamēr izglābti, kādreiz arī pazuduši. Kāda korespondence ņemta šim stāstam par pamatu. Personas ņemtas no Ērgļu pagasta. Rūdolfs viņas salicis uz ledus gabala un vēro, ko viņa katra darīs.”
 
-Darbs ar "Latvijas vēstures enciklopēdiju"
-Visi enciklopēdijas šķirkļi ir sakārtoti pēc alfabēta šķirkļu sarakstā, kas vienmēr ir pieejams loga kreisajā pusē. Šķirkļu sarakstā vienlaikus var redzēt visus šķirkļus, kuru nosaukums sākas ar izvēlēto burtu. Noklikšķinot uz šķirkļa nosaukuma, šķirkļa teksts tiek parādīts pa labi no šķirkļu saraksta.
-Lai meklētu un atlasītu informāciju, meklēšanas logā ir jāievada vajadzīgais vārds/frāze.
+Audiolasījums: Raimonds Celms. Ierakstīts LNB skaņu studijā 2020. gadā.
 
-Vēstures Enciklopēdijā izmantotie saīsinājumi:
+Noveles "Nāves ēnā" audiolasījums pieejams te: https://www.letonika.lv/audiogramatas/Reader.aspx?r=859277
+Noveles "Nāves ēnā" teksts izlasīšanai pieejams te: https://www.letonika.lv/literatura/Reader.aspx?r=150#2191090/I:3/P:1
 
-Saīsinājumi
+## Rūdolfa Blaumaņa noveles
+Pašmācībā iegūtās zināšanas par Vakareiropas kultūru (viņa literārie paraugi un skolotāji - J. V. Gēte, F. Šillers, Č.Dikenss, V.Šekspīrs, G. Freitāgs, H. Ibsens u.c.) Rūdolfs Blaumanis lika lietā, radot latviešu klasisko noveli un psiholoģisko drāmu.
 
-bij.	bijušais
-cilv.	cilvēki
-g.	gads
-gk.	galvenokārt
-gs.	gadsimts
-gt.	gadu tūkstotis
-k-ris	komandieris
-krāj.	krājums
-Ls	lati
-milj.	miljons
-pēc Kr.	pēc Kristus
-pr.Kr.	pirms Kristus
-pulkv.	pulkvedis
-R.	Rīga
-rbļ.	rubļi
-sēj.	sējums
-tag.	tagadējais
-t.s.	tā sauktais
-tūkst.	tūkstotis
-Abreviatūras
+Pārņemot un jaunā kvalitātē izmantojot nacionālās atmodas idejas - tautiskumu, nacionālo pašapziņu, pašapliecināšanos, Rūdolfs Blaumanis meklēja savu ceļu latviešu rakstniecībā. Viņam piemita spēja apbrīnojami ieklausīties lauku ļaužu valodā, viņš savās lugās nereti izmantoja veselus teicienus no savu laikabiedru sacītā. Par ideju avotu Blaumanis izmantojis arī latviešu folkloru.
 
-ANO	Apvienoto Nāciju Organizācija
-AP	Augstākā Padome
-ASV	Amerikas Savienotās Valstis
-CK	Centrālā komiteja
-čeka, čekisti	padomju valsts drošības policija un tās darbinieki
-GULAG	Главное Управление Исправительно—Трудовых Лагерей и колоний
-HES	Hidroelektrostacija
-Iskolastrels	Latviešu strēlnieku pulku apvienotās padomes izpildu komiteja
-KPFSR	Krievijas Padomju Federatīvā Sociālistiskā republika
-LKP	Latvijas Komunistiskā partija
-LNNK	Latvijas Nacionālās neatkarības kustība
-LPSR	Latvijas Padomju Sociālistiskā republika
-LR	Latvijas Republika
-LSD	Latvijas sociāldemokrātija
-LSPR	Latvijas sociālistiskā padomju republika
-LU	Latvijas Universitāte
-LVU	Latvijas Valsts universitāte
-NKVD	Valsts drošības komiteja
-PSKP	Padomju Savienības Komunistiskā partija
-PSR	Padomju Sociālistiskā Republika
-PSRS	Padomju Sociālistisko Republiku Savienība
-PSRS AP	Padomju Sociālistisko Republiku Savienības Augstākā Padome
-SD	Drošības dienests
-SS	Nacionālsociālistiskās partijas triecienvienība
-TEC	Termoelektrostacija
-VEF	Valsts elektrotehniskā fabrika
-ZA	Zinātņu akadēmija
+Jau 19. gadsimta 80. gados ar saviem stāstiem un novelēm Rūdolfs Blaumanis ienāca latviešu literatūrā kā perfekts cilvēka dvēseles norišu analītiķis un tēlotājs. Visa centrā viņam bija cilvēks, ko viņš uzskatīja par pasaules lielāko vērtību. Latviešu novelistikas žanra pirmsākums un joprojām dzīva bagātība ir Rūdolfa Blaumaņa "Pērkona negaiss" (1887), "Raudupiete" (1889), "Salna pavasarī" (1898, ekranizēta 1955), "Purva bridējs" (1898, ekranizēta 1966), "Andriksons" (1899), "Nāves ēnā" (1899, ekranizēta 1971).
+   
+Pēc noveles "Nāves ēnā" filmas kadrs jeb attēls: https://ltv.lsm.lv/storage/media/b/2/large/0/513c5b67.jpg
 
-Vēstures enciklopēdijas laika kartes attēls pieejams šeit: https://letonika.lv/articles/pictures/TIME.GIF
+Lasi Rūdolfa Blaumaņa noveles te: https://www.letonika.lv/literatura/Reader.aspx?r=150
 
-## Vēstures enciklopēdijas laika karte
-#### URL: https://letonika.lv/article.aspx?id=laikakarte
-#### IMG: https://letonika.lv/articles/pictures/TIME.GIF
+## Rūdolfa Blaumaņa citi darbi
+Rūdolfa Blaumaņa pasaka „Velniņi" ir viena no skaistākajām un populārākajām latviešu literārajām pasakām. Tas ir aizraujošs stāsts par diviem maziem velniņiem, kas izbēg no elles un nokļūst uz zemes. Izmantojot savas burvju spējas, velniņi cenšas izjokot godīgo zemnieku, bet māju apciemo laupītāji...
 
-Vēstures enciklopēdijas laika karte pieejama: https://letonika.lv/article.aspx?id=laikakarte, attēls: https://letonika.lv/articles/pictures/TIME.GIF
+Rūdolfs Blaumanis bijis arī pazīstams žurnālists, strādājis vairākos periodiskajos izdevumos. Šajā laikā latviešu (arī vācu) publika iepazina Blaumani gan kā asprātīgu teātra recenzentu, gan kā satīrisku feļetonu un literāru tēlojumu autoru.
 
-## LATVIJAS KULTŪRAS KANONS
+Izmantojot Rūdolfa Blaumaņa feļetonu „Īsa pamācība mīlēšanā" un viņa humoristiskos stāstus, tapušas gan izrāde Dailes teātrī, gan Rīgas kinostudijas spēlfilma (1982. gads, režisors Imants Krenbergs. Filmā piedalījās aktieri Rolands Zagorskis, Eduards Pāvuls, Esmeralda Ermale, Diāna Zande, Anda Zaice, Lilita Ozoliņa, Ērika Ferda, Uldis Pūcītis un Maija Eglīte). Abas kļuvušas gana populāras - izrāde Dailes teātrī iestudēta jau otrreiz (2001), R. Paula dziesmas izrādei folklorizējušas. 
 
-KULTŪRAS VĒRTĪBAS
-Latvijas kultūras kanons līdzīgi kā citās Eiropas valstīs izveidots kā izcilāko un ievērojamāko mākslas darbu un kultūras vērtību kopums, kas atspoguļo nācijas visu laiku nozīmīgākos sasniegumus kultūrā. Kultūras kanonā iekļautas Latvijas kultūru raksturojošās vērtības dažādās mākslas jomās, ar kurām lepojamies un kurām vajadzētu veidot ikviena Latvijas iedzīvotāja kultūras pieredzes pamatu, nodrošinot piederības izjūtu Latvijai. Kanona diskurss saistāms ar kultūras atmiņas jēdzienu, kas skaidrojams kā cilvēku grupas, noteiktas kultūras pārstāvju kopējas zināšanas noteiktā brīdī. Tādējādi var teikt, ka kanons ir līdzeklis šādas kopējas kultūras atmiņas radīšanai un izplatīšanai. Kanons savā ziņā ir institucionalizēta kultūras atmiņa.
+Filma "Īsa pamācība mīlēšanā" stāsta par saimniekdēlu Jāni, kuram pienācis laiks ņemt sievu, bet vecāku nolūkoto viņš nav ar mieru precēt. Jānis nolemj, ka pats meklēs sev tīkamu sievu, bet viegli jau preciniekam neiet, jo daudzas meitas met acis uz stalto saimniekdēlu, kā arī kāro tikt saimnieces godā. Tomēr Jānis ir gana gudrs un izdomā, kā visām viņu pītajām viltībām tikt klāt, kā dzirdēt to, ko viņam acīs teikt meitas negribētu.
 
-Darbs pie Latvijas kultūras kanona veidošanas tika uzsākts 2007. gada nogalē. Tika izveidotas ekspertu darba grupas septiņās nozarēs (Arhitektūra un dizains, Kino, Literatūra, Mūzika, Skatuves māksla, Tautas tradīcijas, Vizuālā māksla). Šobrīd Kultūras kanona izveide ir noslēgusies un Kultūras kanonu veido 99 kultūras vērtības.
+Latviešu literatūrā Rūdolfs Blaumanis ienāca kā stāstnieks, tad pieteica sevi kā novelistu un dramaturgu. Retāk Blaumanis tiek pieminēts kā dzejnieks, kaut gan no viņa oriģināldzejoļu simta (neskaitot ap pusotra simta humoristisko un satīrisko dzejoļu un vēl vienu simtu atdzejoto) ir daudz lielisku mākslas darbu. Vispusība, kas raksturīga viņa literārajai darbībai kopumā, attiecas arī uz dzeju. Viņa spalvai pieder visatšķirīgākie dzejas veidi: gan smalka mīlas un dabas lirika, gan dzejiski ritmizēts humors, satīra, parodijas, tautasdziesmas reminiscences ("Šūpuļa dziesma", "Tautasdziesma"), romances ("Vēl tu nezini"), balādes ("Tālavas taurētājs"), elēģijas ("Memento!", "Zelta jaunība") un odas ("Renatus", "Mana lūgšana").
+
+Izdots neliels dzejoļu krājums "Ceļa malā" (1900, kopā ar Andrievu Niedru). Populāri kļuva R. Blaumaņa dzejoļi "Tālavas taurētājs", "Ziema", "Vēl tu nezini", "Kā zagšus", "Ziedonis klāt", "Pērkons". R. Blaumaņa dzejai mūziku rakstījuši: Alfrēds Kalniņš, Emīls Dārziņš, Emilis Melngailis, Andrejs Jurjāns, Arvīds Žilinskis, Raimonds Pauls, Imants Kalniņš u.c.
+
+Tāda pati daudzveidība kā prozā un dzejā valda arī R. Blaumaņa dramaturģijā. Viņa skatuves darbu žanrus, satura un formas amplitūda ir visai plaša. Viņš rakstījis gan vieglas situāciju komēdijas, kā "Zagļi" 1891, "Zelta kupris" 1892, "Trīnes grēki" (1897).
+
+Pie tolaik populārā žanra, tā sauktajām tautas lugām, kurās raksturīga jautru skatu savijums ar nopietniem pat dramatiskiem notikumiem, Blaumanis pieskaitījis lugas "Ļaunais gars" (1892) un "Skroderdienas Silmačos".
+
+Psiholoģiskā reālisma formā veidotas tagad par klasiskām kļuvušas: bēdu luga "Pazudušas dēls" (1893), "Indrāni" (1904) un "Ugunī" (1905).
+
+R. Blaumaņa dramaturģijā tomēr skaidri saskatāmi daži nemaināmi principi. Pats galvenais - mākslas darbā cieši jāsapludina saturs, ideja un forma.
+
+Latviešu teātra fenomens ir "Skroderdienas Silmačos" - tautas luga, ko katros Jāņos latvieši labprāt skatījušies un skatās un smejas līdz asarām un dzied līdzi Blaumaņa sirsnīgajām kuplejām.
+
+Tomēr šīs Blaumaņa lugas liktenis ir bijis visai raibs. 1902. gada 31. janvārī un 1. februārī - divās nākamajās dienās pēc lugas pirmizrādes "Dienas Lapa" bija pilna ar iznīcinošām un rakstnieku pazemojošām recenzijām. Izrādās, lugai nāves spriedumu pasludinājis R. Blaumaņa darbabiedrs J. Asars. Šī luga R. Blaumanim sagādājusi daudzus rūgtus brīžus. Kaut arī parādījās arī citas visumā atzinīgas recenzijas, tomēr Rīgas Latviešu biedrības teātris nospēlēja tikai trīs izrādes. Bija jāpaiet pieciem gadiem, līdz teātris atgriezās pie noniecinātās lugas. 1907. gada iestudējums izrādījās pēdējais, ko autoram pašam izdevās skatīt.
+
+Gandrīz vai jādomā, ka liktenis gaidīja lugas autora aiziešanu viņsaulē. Ar pirmajām autora pēcnāves izrādēm sākās "Skroderdienu" uzvaras gājiens pa Latvijas teātru skatuvēm. Šīs lugas iestudējumu un izrāžu skaits pārsniedz jebkuras latviešu oriģināllugas iestudējumu un izrāžu skaitu.
+

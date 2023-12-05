@@ -702,6 +702,7 @@ Uzziņai: Rūdolfa Blaumaņa brālis Arvīds Blaumanis par ierosmi noveles “N�
 Audiolasījums: Raimonds Celms. Ierakstīts LNB skaņu studijā 2020. gadā.
 
 Noveles "Nāves ēnā" audiolasījums pieejams te: https://www.letonika.lv/audiogramatas/Reader.aspx?r=859277
+
 Noveles "Nāves ēnā" teksts izlasīšanai pieejams te: https://www.letonika.lv/literatura/Reader.aspx?r=150#2191090/I:3/P:1
 
 ## Rūdolfa Blaumaņa noveles
@@ -745,7 +746,7 @@ Gandrīz vai jādomā, ka liktenis gaidīja lugas autora aiziešanu viņsaulē. 
 
 ## Rūdolfs Blaumanis
 #### URL: https://letonika.lv/literatura/Section.aspx?f=1&id=2189823
-#### IMG: https://www.letonika.lv/audiogramatas/covers/859277_b.png?t=1
+#### IMG: https://letonika.lv/groups/multimedia.aspx?prev=0&entryTitle=Blaumanis%20Rudolfs.jpg
 
 
 Rūdolfs Blaumanis (1863-1908)

@@ -1,8 +1,8 @@
 # Novele "Nāves ēnā"
 
-## Teksts
-#### URL: https://www.letonika.lv/literatura/Reader.aspx?r=150#2191090/I:3/P:1
-#### IMG: https://www.letonika.lv/audiogramatas/covers/859277_b.png?t=1
+## Noveles Teksts
+#### URL: https://letonika.lv/literatura/Reader.aspx?r=150#2191090/I:3/P:1
+#### IMG: https://letonika.lv/audiogramatas/covers/859277_b.png?t=1
 
 	
 Autors: RŪDOLFS BLAUMANIS
@@ -741,4 +741,24 @@ Latviešu teātra fenomens ir "Skroderdienas Silmačos" - tautas luga, ko katros
 Tomēr šīs Blaumaņa lugas liktenis ir bijis visai raibs. 1902. gada 31. janvārī un 1. februārī - divās nākamajās dienās pēc lugas pirmizrādes "Dienas Lapa" bija pilna ar iznīcinošām un rakstnieku pazemojošām recenzijām. Izrādās, lugai nāves spriedumu pasludinājis R. Blaumaņa darbabiedrs J. Asars. Šī luga R. Blaumanim sagādājusi daudzus rūgtus brīžus. Kaut arī parādījās arī citas visumā atzinīgas recenzijas, tomēr Rīgas Latviešu biedrības teātris nospēlēja tikai trīs izrādes. Bija jāpaiet pieciem gadiem, līdz teātris atgriezās pie noniecinātās lugas. 1907. gada iestudējums izrādījās pēdējais, ko autoram pašam izdevās skatīt.
 
 Gandrīz vai jādomā, ka liktenis gaidīja lugas autora aiziešanu viņsaulē. Ar pirmajām autora pēcnāves izrādēm sākās "Skroderdienu" uzvaras gājiens pa Latvijas teātru skatuvēm. Šīs lugas iestudējumu un izrāžu skaits pārsniedz jebkuras latviešu oriģināllugas iestudējumu un izrāžu skaitu.
+
+
+## Rūdolfs Blaumanis
+#### URL: https://letonika.lv/literatura/Section.aspx?f=1&id=2189823
+#### IMG: https://www.letonika.lv/audiogramatas/covers/859277_b.png?t=1
+
+
+Rūdolfs Blaumanis (1863-1908)
+
+Rūdolfs Blaumanis ir spilgtākais latviešu rakstnieks 19. gadsimta beigās un 20. gadsimta sākumā un, iespējams, visā latviešu rakstniecības vēsturē.
+
+Rūdolfs Blaumanis piedzima 1863. gada 1. janvārī Ērgļu muižnieka Tranzē kalpu mājā un pavadīja tur pirmos četrus mūža gadus. Tēvs bijis muižas pavārs, māte - istabene. Par viņa mājām uz visu turpmāko dzīvi kļuva rentes mājas "Braki". Desmit gadu vecumā Rūdolfs sāka skolas gaitas Annas Rubīnas četrklasīgajā privātskolā Ogres pagastā, tad vācu tirdzniecības skolā Rīgā. Braku mājās viņš atgriezās pēc savas divdesmitās dzimšanas dienas. No 1887. gada viņš ar lielākiem vai mazākiem pārtraukumiem dzīvoja Rīgā. Rakstniekam nekad mūžā nav bijis sava dzīvokļa. Viņš īrēja mēbelētas istabas gan svešos, gan paziņu dzīvokļos - pie J. Rozentāla, V. Purvīša, J. Jaunsudrabiņa, V. Fon Andrejanova, advokāta J. Ansberga. Palaikam apmetās lētās viesnīcās, skolu telpās. Par vienīgajām īstajām Blaumaņa mājām uzskatāmi "Braki" Ērgļu pagastā. Te arī ir radušās idejas un iedvesma R. Blaumaņa darbiem.
+
+Blaumanis sevi veidojis par rakstnieku apzināti un mērķ-tiecīgi. Viņš labi prata vācu valodu, bija ļoti daudz lasījis vācu oriģinālliteratūru un sākotnēji arī kā rakstnieks attīstīja sevi vācu literatūras ietekmē. Impulsu pievērsties "visdzīvākajai dzīvei" un latviešu zemniekam ar viņa "pelēko ikdienu" Rūdolfam Blaumanim devis Gētes "Fausts" u.c. dižā vācu ģēnija darbi.
+
+Vairākos periodiskajos izdevumos Rūdolfs Blaumanis strādāja par algotu darbinieku ("Zeitung für den Stadt und Land", "Dienas Lapa", "Mājas Viesis", "Mājas Viesa Mēnešraksts", "Pēterburgas Avīzes", "Latvija"). Latviešu (arī vācu) publika iepazina Blaumani gan kā asprātīgu teātra recenzentu, gan kā satīrisku feļetonu un literāru tēlojumu autoru. R. Blaumanis pievērsās arī dzejai, sacerēdams liriskus un satīriskus dzejoļus.
+
+Rūdolfs Blaumanis nomira ar tuberkulozi Takaharju sanatorijā Somijā 1908. gada 4. septembrī. Pārvests uz Latviju, apbedīts Ērgļu kapos, kur 1923. gadā uzstādīts piemineklis (tēlnieks B. Dzenis). Rīgā R. Blaumaņa piemiņai 1929. gadā uzstādīts piemineklis (tēlnieks T. Zaļkalns), Madonas rajona "Brakos" 1959. gadā atvērts memoriālais muzejs. Rīgā, Alberta ielā 12-9, Jaņa Rozentāla bijušajā dzīvoklī, kur R.Blaumanis 1906.-1908. gadā īrēja istabu, tagad atrodas Jaņa Rozentāla un Rūdolfa Blaumaņa memoriālais muzejs, kur iekārtota rakstniekam veltīta ekspozīcija.
+
+Blaumanis Rūdolfs (pseidonīms Grāvracis, Zobgals, Grāvraču Anna, Jirgensonu Pēteris; 1863–1908) – rakstnieks. Psiholoģiskās prozas un drāmas, humoristiski satīriskās dzejas meistars. Sarakstījis lugas Zagļi, Trīnes grēki (abas 1891), Pazudušais dēls (1893), Skroderdienas Silmačos (1902), Indrāni (1904), Ugunī (1905). Nozīmīgākās noveles Salna pavasarī, Purva bridējs (abas 1898), Nāves ēnā (1899). Sacerējis dzejoļus (Tālavas taurētājs, Ziema, Vēl tu nezini, Kā zagšus). Izdoti Kopoti raksti (1 –9, kopš 1993).
 

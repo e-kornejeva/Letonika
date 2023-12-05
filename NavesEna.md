@@ -313,49 +313,90 @@ Tā viņi Janim un Birkenbaumam, kuri no tiem savu acu nenovērsa, vēl labu lai
 ## Skaidrojošā vārdnīca
 
 apgalve – apauši
+
 atplaikšķīties – atplaiksnīties, parādīties
+
 bārzda – bārda
+
 brandviņš – brandvīns, degvīns
+
 brūte – līgava
+
 deguta – bērza tāss darva; tumšs, eļļains šķidrums, ko iegūst, pārtvaicējot bērza tāsi
+
 gausties – žēlojoties, vaimanājot paust neapmierinātību
+
 ilkss – viena no divām kārtīm, kas piestiprinātas pie ratiem vai ragavām zirga iejūgšanai
+
 irt – drupt, šķīst
+
 izbrucināt – izasināt
+
 izkārmēt – izsalkt
+
 kamieši – pleci
+
 kārts – pagarš, tievs apaļkoks
+
 klusuciešana – klusēšana
+
 kuls – klons, virsma, ko parasti veido sablietēts māla vai zemes slānis
+
 kurvis – grozs
+
 ķeksis – darbarīks, stienis ar (parasti metāla) kāsi galā
+
 ķeša – kabata
+
 liess – vājš
+
 liksta – nelaime, negadījums
+
 mašķi – cieti, griezīgi zālaugi.
+
 neviļot, neviļus – nejauši, negribēti
+
 pate – pati
+
 pestīt – glābt, darīt brīvu
+
 pērsla – pārsla
+
 plaga – arī flaga, kuģa karogs
+
 pluts – kaila galvas āda
+
 purslas – lūpas
+
 salkt – just stipru izsalkumu
+
 salts – tāds, kam zema temperatūra
+
 samist – nonākt izmisumā
+
 saverkšķīt – samiegt, samirkšķināt
+
 skotele – ādas vai bieza auduma priekšauts
+
 smeķēt – garšot
+
 sūroties – paust neapmierinātību
+
 šķausna – šķautnains (akmens, ledus) gabals
+
 telēķis – šķīvis
+
 valgums – mitrums, slapjums (parasti neliels)
 
-Skaidrojošās vārdnīcas sastādīšanā izmantotie resursi:
-letonika.lv sinonīmu vārdnīca:  https://letonika.lv/groups/default.aspx?g=5&r=1108
-tezaurs.lv:  https://tezaurs.lv
-letonika.lv skaidrojošā vārdnīca https://letonika.lv/groups/default.aspx?g=1&r=1107
 
+
+Skaidrojošās vārdnīcas sastādīšanā izmantotie resursi:
+
+letonika.lv sinonīmu vārdnīca:  https://letonika.lv/groups/default.aspx?g=5&r=1108
+
+tezaurs.lv:  https://tezaurs.lv
+
+letonika.lv skaidrojošā vārdnīca https://letonika.lv/groups/default.aspx?g=1&r=1107
 
 ## Latvijas vēstures enciklopēdija
 

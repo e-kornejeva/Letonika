@@ -711,7 +711,7 @@ Pārņemot un jaunā kvalitātē izmantojot nacionālās atmodas idejas - tautis
 
 Jau 19. gadsimta 80. gados ar saviem stāstiem un novelēm Rūdolfs Blaumanis ienāca latviešu literatūrā kā perfekts cilvēka dvēseles norišu analītiķis un tēlotājs. Visa centrā viņam bija cilvēks, ko viņš uzskatīja par pasaules lielāko vērtību. Latviešu novelistikas žanra pirmsākums un joprojām dzīva bagātība ir Rūdolfa Blaumaņa "Pērkona negaiss" (1887), "Raudupiete" (1889), "Salna pavasarī" (1898, ekranizēta 1955), "Purva bridējs" (1898, ekranizēta 1966), "Andriksons" (1899), "Nāves ēnā" (1899, ekranizēta 1971).
    
-Pēc noveles "Nāves ēnā" filmas kadrs jeb attēls: https://ltv.lsm.lv/storage/media/b/2/large/0/513c5b67.jpg
+Pēc noveles "Nāves ēnā" uzņemtās filmas kadrs jeb attēls: https://ltv.lsm.lv/storage/media/b/2/large/0/513c5b67.jpg
 
 Lasi Rūdolfa Blaumaņa noveles te: https://www.letonika.lv/literatura/Reader.aspx?r=150
 

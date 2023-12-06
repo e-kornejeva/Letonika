@@ -599,47 +599,89 @@ Tā viņi Janim un Birkenbaumam, kuri no tiem savu acu nenovērsa, vēl labu lai
 #### IMG: https://boti.letonika.lv/assets/images/Zvejnieks%20ikona.png
 
 •	"apgalve"  nozīmē  apauši
+
 •	atplaikšķīties  nozīmē atplaiksnīties, parādīties
+
 •	bārzda  nozīmē bārda
+
 •	brandviņš  nozīmē brandvīns, degvīns
+
 •	brūte  nozīmē līgava
+
 •	deguta  nozīmē bērza tāss darva; tumšs, eļļains šķidrums, ko iegūst, pārtvaicējot bērza tāsi
+
 •	gausties  nozīmē žēlojoties, vaimanājot paust neapmierinātību
+
 •	ilkss  nozīmē viena no divām kārtīm, kas piestiprinātas pie ratiem vai ragavām zirga iejūgšanai
+
 •	irt  nozīmē drupt, šķīst
+
 •	izbrucināt  nozīmē izasināt
+
 •	izkārmēt  nozīmē izsalkt
+
 •	kamieši  nozīmē pleci
+
 •	kārts  nozīmē pagarš, tievs apaļkoks
+
 •	klusuciešana  nozīmē klusēšana
+
 •	kuls  nozīmē klons, virsma, ko parasti veido sablietēts māla vai zemes slānis
+
 •	kurvis  nozīmē grozs
+
 •	ķeksis  nozīmē darbarīks, stienis ar (parasti metāla) kāsi galā
+
 •	ķeša  nozīmē kabata
+
 •	liess  nozīmē vājš
+
 •	liksta  nozīmē nelaime, negadījums
+
 •	mašķi  nozīmē cieti, griezīgi zālaugi.
+
 •	neviļot, neviļus  nozīmē nejauši, negribēti
+
 •	pate  nozīmē pati
+
 •	pestīt  nozīmē glābt, darīt brīvu
+
 •	pērsla  nozīmē pārsla
+
 •	plaga  nozīmē arī flaga, kuģa karogs
+
 •	pluts  nozīmē kaila galvas āda
+
 •	purslas  nozīmē lūpas
+
 •	salkt  nozīmē just stipru izsalkumu
+
 •	salts  nozīmē tāds, kam zema temperatūra
+
 •	samist  nozīmē nonākt izmisumā
+
 •	saverkšķīt  nozīmē samiegt, samirkšķināt
+
 •	skāde  nozīmē zaudējums, bojājums, zudība; arī žēl
+
 •	skotele  nozīmē ādas vai bieza auduma priekšauts
+
 •	smeķēt  nozīmē garšot
+
 •	sūroties  nozīmē paust neapmierinātību
+
 •	šķausna  nozīmē šķautnains (akmens, ledus) gabals 
+
 •	tvīkt  nozīmē ilgoties, alkt, degt
+
 •	telēķis  nozīmē šķīvis
+
 •	valgums  nozīmē mitrums, slapjums (parasti neliels)
 
 Skaidrojošās vārdnīcas sastādīšanā izmantotie resursi:
+
 [letonika.lv sinonīmu vārdnīca](https://letonika.lv/groups/default.aspx?g=5&r=1108)
+
 [tezaurs.lv](https://tezaurs.lv)
+
 [letonika.lv skaidrojošā vārdnīca](https://letonika.lv/groups/default.aspx?g=1&r=1107)

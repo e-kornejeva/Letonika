@@ -1,12 +1,7 @@
 # Novele "Nāves ēnā"
 
-## Noveles Teksts
 #### URL: https://letonika.lv/literatura/Reader.aspx?r=150#2191090/I:3/P:1
 #### IMG: https://letonika.lv/audiogramatas/covers/859277_b.png?t=1
-
-	
-Autors: RŪDOLFS BLAUMANIS
-Noveles nosaukums: NĀVES ĒNĀ
 
 Arvien vēl pūta dienvidus vakara vējš, un arvien vēl milzīgais ledus gabals peldēja tālāk un tālāk jūrā iekšā. Uz ledus gabala atradās četrpadsmit zvejnieki un divi zirgi. Ļaudis bij nodarbojušies ar āliņģu ciršanu un tīklu laišanu ūdenī, un neviens no viņiem nebij pamanījis, ka ledus no jūrmalas bij sācis virzīties projām. Tikai kad glābšanās vairs nebij iespējama, viņi uz nelaimi bij kļuvuši uzmanīgi. Zirgs bij sācis tecēt uz malu, Kārlēns, sešpadsmit gadu vecs zeņķis, tam ar otru bij dzinies pakaļ un viņu sasniedzis no malas taisni tādā attālumā, no kura varēja redzēt, ka ledus stūmās projām. Ar joni zēns nu bij atgriezies atpakaļ un biedriem paziņojis notikumu, bet, kad tie visi bij saskrējuši pie ledus gabala malas, tad vairs nebij cerības aizpeldēt uz krastu. Skaru Juris, kuram mājā bij sieva ar trim bērniem, tomēr no sava izmisuma bij ļāvies pārvarēties, bij ielēcis ūdenī, un biedri bij redzējuši, kā tas netālu no malas bij nogrimis.
 
@@ -704,7 +699,7 @@ Novele “Nāves ēnā” ir viens no R. Blaumaņa izcilākajiem literārajiem d
 Sižeta galvenās līnijas
 Noveles sižeta centrā ir zvejnieku pārdzīvojumu tēlojums, viņiem nonākot uz dreifējoša ledus gabala atklātā jūrā. Ārēju notikumu novelē nav daudz, un tie ir ļoti koncentrēti. Vēstījums sākas brīdī, kad tēlotie cilvēki atskārtuši, ka viņu zvejas laikā ledus gabals ir atlūzis un atšķēlies no cietzemes. Vīri cenšas saglabāt mieru un kārtību, rūpējas par to, lai vienlīdzīgi sadalītu zivis, kas ir viņu vienīgā pārtika, izkar mastā brīdinājuma karogu, par kādu pārtop kāda zvejnieka sarkanais krekls, un vēro iespējamo glābēju parādīšanos. Nozīmīgākie sižeta pavērsieni ir noveles noslēgumā. Vispirms ledus gabalam garām aizbrauc kuģis, tā dūmu strūkliņai parādoties un tad vienaldzīgi izgaistot tālumā. Mirkli vēlāk, kad cerības uz glābiņu jau šķiet zudušas, nelaimīgajiem vīriem pietuvojas sveša laiva, tomēr izrādās, ka tajā nepietiek vietas visiem, un trīs zvejnieki ir spiesti palikt un noskatīties pārējo aizbraukšanā.
 
-Galvenās darbojošās personas
+Sižeta galvenās līnijas
 Uz ledus gabala nonākušie zvejnieki veido vienotu tēlu grupu, kurā spilgtāk izdalās tie raksturi, kuru individuālie pārdzīvojumi atklāti izvērstāk. Sākotnēji tie pavisam ir četrpadsmit zvejnieki un divi zirgi, bet vēl viens vīrs, atklājot notikušo, centies peldus sasniegt jau attālo krastu, taču noslīcis ledainajā ūdenī. Ledus gabalam sašķeļoties divās daļās, uz lielākās no tām paliek desmit zvejnieki. Noveles personu kopaina veido paaudžu šķērsgriezumu, jo te ir gan vecāki zvejnieki, gan precēti pusmūža vīri, gan sešpadsmit gadus vecs zēns. Par pulciņa neformālo vadoni izvirzās enerģiskais Grīntāls, kurš, saskaņojot ar citiem, pieņem svarīgākos lēmumus, tajā skaitā nosakot, ka iekāpšana glābēju laivā notiks ar lozēšanas palīdzību. Pašaizliedzīgā un godprātīgā Grīntāla pretstats ir savtīgais Zaļga, kura galvenās rūpes ir vērstas uz savas mantas saglabāšanu, tikai pēc pārējo pieprasījuma viņš ir spiests piekāpties, kad zivis tiek ņemtas no viņa vezuma. Izvērsti veidots brašā vidzemnieka Birkenbauma portrets, kurš pavadījis vētrainus un bezbēdīgus jaunības gadus, līdz beidzot atklīdis darbos Kurzemē un uzsācis darbu kā Zaļgas puisis. Trauslākais no zvejniekiem ir pusaudzis Kārlēns, kurš bada un aukstuma dēļ cieš fiziskas mokas un izmisīgi pārdzīvo savu nenodzīvoto dzīvi. Aizkustinošas ir vecā Daldas un viņa dēla Jaņa attiecības, kurās tēvs cenšas dēlam palīdzēt, daloties ar savu pārtikas daļu, un beigās paliek uz ledus gabala dēla vietā, kurš izvilka neveiksmīgo lozi. Vairāku tēlu veidojumā būtisks bijis prototipu izmantojums. Pēc R. Blaumaņa brāļa Arvīda liecības, novelē tēloti Ērgļu pagasta cilvēki, kurus rakstnieks novietojis uz ledus, sekodams viņu iespējamām izjūtām un rīcībai. Kārlēna prototips ir R. Blaumaņa “Braku” māju puisis un rakstnieka krustdēls Kārlis Šteinbergs, kura rakstura iezīmes izmantotas arī Noliņa tēlā drāmā “Indrāni”. Vecā Daldas tēlā attāla līdzība ar R. Blaumaņa tēvu Matīsu Blaumani. Birkenbauma rakstura izveidi rosinājis Kokneses muižas staļļa puisis Pēteris Jirgensons, kurš devis ierosmi arī Edgara tēlam novelē “Purva bridējs” (1898) un skatu lugā “Ugunī” (1904).     
 
 Kompozīcija
@@ -738,7 +733,7 @@ Pārņemot un jaunā kvalitātē izmantojot nacionālās atmodas idejas - tautis
 
 Jau 19. gadsimta 80. gados ar saviem stāstiem un novelēm Rūdolfs Blaumanis ienāca latviešu literatūrā kā perfekts cilvēka dvēseles norišu analītiķis un tēlotājs. Visa centrā viņam bija cilvēks, ko viņš uzskatīja par pasaules lielāko vērtību. Latviešu novelistikas žanra pirmsākums un joprojām dzīva bagātība ir Rūdolfa Blaumaņa "Pērkona negaiss" (1887), "Raudupiete" (1889), "Salna pavasarī" (1898, ekranizēta 1955), "Purva bridējs" (1898, ekranizēta 1966), "Andriksons" (1899), "Nāves ēnā" (1899, ekranizēta 1971).
    
-Pēc noveles "Nāves ēnā" uzņemtās filmas kadrs jeb attēls: https://ltv.lsm.lv/storage/media/b/2/large/0/513c5b67.jpg
+Pēc noveles "Nāves ēnā" uzņemtās filmas kadrs jeb attēls pieejams te: https://ltv.lsm.lv/storage/media/b/2/large/0/513c5b67.jpg
 
 Lasi Rūdolfa Blaumaņa noveles te: https://www.letonika.lv/literatura/Reader.aspx?r=150
 

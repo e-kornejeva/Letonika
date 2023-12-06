@@ -4,7 +4,10 @@
 #### IMG: https://letonika.lv/audiogramatas/covers/859277_b.png?t=1
 
 Noveles nosaukums: "Nāves ēnā"
+
 Noveles autors: Rūdolfs Blaumanis
+
+Novele (darbs, stāsts) sarakstīta 1899. gadā
 
 ## Noveles sākums
 

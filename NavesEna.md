@@ -3,23 +3,26 @@
 #### URL: https://letonika.lv/literatura/Reader.aspx?r=150#2191090/I:3/P:1
 #### IMG: https://letonika.lv/audiogramatas/covers/859277_b.png?t=1
 
-##Noveles sākums
+Noveles nosaukums: "Nāves ēnā"
+Noveles autors: Rūdolfs Blaumanis
+
+## Noveles sākums
 
 Arvien vēl pūta dienvidus vakara vējš, un arvien vēl milzīgais ledus gabals peldēja tālāk un tālāk jūrā iekšā. Uz ledus gabala atradās četrpadsmit zvejnieki un divi zirgi. 
 
-##Ledus gabals aizpeld jūrā
+## Ledus gabals aizpeld jūrā
 
 Ļaudis bij nodarbojušies ar āliņģu ciršanu un tīklu laišanu ūdenī, un neviens no viņiem nebij pamanījis, ka ledus no jūrmalas bij sācis virzīties projām. Tikai kad glābšanās vairs nebij iespējama, viņi uz nelaimi bij kļuvuši uzmanīgi. 
 
-##Kārlēns pamana nelaimīgo notikumu
+## Kārlēns pamana nelaimīgo notikumu
 
 Zirgs bij sācis tecēt uz malu, Kārlēns, sešpadsmit gadu vecs zeņķis, tam ar otru bij dzinies pakaļ un viņu sasniedzis no malas taisni tādā attālumā, no kura varēja redzēt, ka ledus stūmās projām. Ar joni zēns nu bij atgriezies atpakaļ un biedriem paziņojis notikumu, bet, kad tie visi bij saskrējuši pie ledus gabala malas, tad vairs nebij cerības aizpeldēt uz krastu. 
 
-##Skaru Juris mēģina glābties un noslīkst
+## Skaru Juris mēģina glābties un noslīkst
 
 Skaru Juris, kuram mājā bij sieva ar trim bērniem, tomēr no sava izmisuma bij ļāvies pārvarēties, bij ielēcis ūdenī, un biedri bij redzējuši, kā tas netālu no malas bij nogrimis.
 
-##Ledus gabals ar zvejniekiem peld uz jūru
+## Ledus gabals ar zvejniekiem peld uz jūru
 
 Kopš tā notikuma bij pagājušas vairāk stundas, un arvien vēl ledus gabals virzījās tālāk ar tādu pašu nemanāmu kustēšanos kā sākumā.
 

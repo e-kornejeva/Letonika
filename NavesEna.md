@@ -720,9 +720,11 @@ Pirmpublicējums: 1899. gadā, “Mājas Viesa Mēnešrakstā”. Iznākusi atse
 
 Uzziņai: Rūdolfa Blaumaņa brālis Arvīds Blaumanis par ierosmi noveles “Nāves ēnā” notikumam raksta: “Dažreiz avīzēs var lasīt, ka zvejnieki ziemu uz ledus gabala atrauti no pārējā, peldējuši labu laiku, kamēr izglābti, kādreiz arī pazuduši. Kāda korespondence ņemta šim stāstam par pamatu. Personas ņemtas no Ērgļu pagasta. Rūdolfs viņas salicis uz ledus gabala un vēro, ko viņa katra darīs.”
 
-Audiolasījums: Raimonds Celms. Ierakstīts LNB skaņu studijā 2020. gadā.
 
 Noveles "Nāves ēnā" audiolasījums pieejams te: https://www.letonika.lv/audiogramatas/Reader.aspx?r=859277
+Noveli lasa Raimonds Celms. Ierakstīts LNB skaņu studijā 2020. gadā.
+
+Noveli "Nāves ēnā" var noklausīties te: https://www.letonika.lv/audiogramatas/Reader.aspx?r=859277
 
 Noveles "Nāves ēnā" teksts izlasīšanai pieejams te: https://www.letonika.lv/literatura/Reader.aspx?r=150#2191090/I:3/P:1
 

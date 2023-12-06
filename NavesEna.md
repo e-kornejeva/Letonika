@@ -12,10 +12,14 @@ Arvien vēl pūta dienvidus vakara vējš, un arvien vēl milzīgais ledus gabal
 Ļaudis bij nodarbojušies ar āliņģu ciršanu un tīklu laišanu ūdenī, un neviens no viņiem nebij pamanījis, ka ledus no jūrmalas bij sācis virzīties projām. Tikai kad glābšanās vairs nebij iespējama, viņi uz nelaimi bij kļuvuši uzmanīgi. 
 
 ##Kārlēns pamana nelaimīgo notikumu
+
 Zirgs bij sācis tecēt uz malu, Kārlēns, sešpadsmit gadu vecs zeņķis, tam ar otru bij dzinies pakaļ un viņu sasniedzis no malas taisni tādā attālumā, no kura varēja redzēt, ka ledus stūmās projām. Ar joni zēns nu bij atgriezies atpakaļ un biedriem paziņojis notikumu, bet, kad tie visi bij saskrējuši pie ledus gabala malas, tad vairs nebij cerības aizpeldēt uz krastu. 
 
-##Kārlēns pamana nelaimīgo notikumu
+##Skaru Juris mēģina glābties un noslīkst
+
 Skaru Juris, kuram mājā bij sieva ar trim bērniem, tomēr no sava izmisuma bij ļāvies pārvarēties, bij ielēcis ūdenī, un biedri bij redzējuši, kā tas netālu no malas bij nogrimis.
+
+##Ledus gabals ar zvejniekiem peld uz jūru
 
 Kopš tā notikuma bij pagājušas vairāk stundas, un arvien vēl ledus gabals virzījās tālāk ar tādu pašu nemanāmu kustēšanos kā sākumā.
 
@@ -515,6 +519,8 @@ Puika apkampa puiša elkonu, piespieda galvu pie viņa pleca un šņukstēja.
 
 Birkenbaums cieta klusu.
 
+##Kuģis zvejniekus neizglābj
+
 Piektās dienas rītā pret brokasta laiku Grīntāls tāļu ziemeļos domājās ieraudzījis dūmus. Ar lielāko uzmanību visi skatījās uz apzīmēto vietu. Garenais mākonītis kļuva skaidrāks, un beigās vairs nebij ko šaubīties, ka tas cēlās no kāda garāmbraucoša tvaikoņa.
 
 "Celiet plagu augstāk! Viciniet to!" cits caur citu sauca, un visi spiedās ap kārti.
@@ -528,6 +534,8 @@ Labu laiku garenais dūmu stabiņš palika vienlīdzīgi liels. Nekustēdamies z
 Bet tad viņu skati metās arvien stīvāki, arvien šausmīgāki. Mākonītis sāka dilt! Tvaikonis netuvojās viņiem, tas viņus neredzēja vai negribēja redzēt! Tas viņiem aizbrauca garam!
 
 Kā nakts ēna nolaidās uz visu ģīmjiem. Flagas turētāji kārti palaida vaļā, tā nogāzās, un Zaļga sarkano kreklu mīdīja ar kājām un kodīja sava kažoka piedurkni. Nabaga Skrastiņš bij atšļucis uz ragavām un muldēja tur nesaprotamus vārdus, un smējās. Kārlēns Birkenbaumu cieti bij apkampis, un Grīntāls stāvēja un skatījās arvien vēl uz to vietu, kur mākonītis bij nozudis.
+
+##Zvejnieki ierauga laivu
 
 Piepeši Janis iekliedzās.
 
@@ -555,6 +563,8 @@ Bet Grīntāls to sagrāba aiz rokas un atrāva atpakaļ. "Paliec. Mums atkal j�
 
 Bet svešais ar to nebij mierā. Viņš rādīja, ka tad varētu izcelties plūkšanās un laiva apgāzties.
 
+##Zvejnieki lozē, kurš kāps laivā, un kuri 3 paliks uz ledus gabala
+
 "Nu tad lozēsim," sacīja Grīntāls. "Nostājaties pēc vecuma. Dalda, Zaļga, Gurlum, Skrastiņ, Sīli - tā tak būs pareizi?...
 
 Jā... Kurš no jums ir vecāks: Birkenbaums, Gulbis vai Janis?... Kārlēns un es paliksim tie pēdējie."
@@ -564,6 +574,8 @@ Viņš izplēsa atkal pāris lapu no savas ķešas grāmatiņas, saplēsa tās v
 "Kas tās izvilks, tie paliks atpakaļ."
 
 Viņš satina lozes, ielika tās cepurē un piegāja pie Daldas. Vecais attina savu zīmīti: tā bij tukša. Drebošu roku Zaļga ķēra cepurē. Tas satvēra vienu, otru zīmīti un beigās trešo attina vaļā. Tā bij tukša. Gurlumam bij tāda pate laime. Skrastiņš sev svinīgi pārmeta krustu un izvilka tad savu lozi. Tukša. Grīntāls piegāja pie Sīļa. Nu taču vajadzēja ķerties pilnai lozei. Sīļa rokas tā drebēja, ka tas tikko papīru varēja attīt vaļā. Glābts... Ar drebošu roku Janis ķēra cepurē un izvilka pirmo krustiņu. Cepurē palika divi krustiņi un viena balta loze. Lūpas sakniebis, Grīntāls Birkenbaumam cepuri sniedza pretim. Tas paskatījās brīdi ar aizrautu elpu lozēs, satvēra tad vienu un attina to ātri vaļā. Viņš bij izvilcis pēdīgo dzīvības lapiņu.
+
+##Grīntāls, Kārlēns un Vecais Dalda paliek uz ledus gabala
 
 Grīntāls apgāza cepuri un izkratīja abas pārpalikušās lozes uz ledus.
 

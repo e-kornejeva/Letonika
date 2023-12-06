@@ -1,4 +1,4 @@
-# Novele "Nāves ēnā"
+# Noveles "Nāves ēnā" teksts
 
 #### URL: https://letonika.lv/literatura/Reader.aspx?r=150#2191090/I:3/P:1
 #### IMG: https://letonika.lv/audiogramatas/covers/859277_b.png?t=1
@@ -591,4 +591,55 @@ Grīntāls reizes trīs atvadīdamies pavicināja ar cepuri, aplika tad roku ap 
 
 Arī Dalda, drusku noliecies uz priekšu, stāvēja kā sastindzis.
 
+##Noveles beigas
 Tā viņi Janim un Birkenbaumam, kuri no tiem savu acu nenovērsa, vēl labu laiciņu bij redzami. Tad viņu tēli kļuva neskaidri, saplūda kopā, un beigās viss ledus gabals pie apvāršņa bij redzams kā mazs, iepelēks punkts. Un tad arī tas bij nozudis.
+
+# Novelē lietoto vārdu skaidrojošā vārdnīca
+#### URL: https://boti.letonika.lv/#/virtualie-asistenti/naves-ena
+#### IMG: https://boti.letonika.lv/assets/images/Zvejnieks%20ikona.png
+
+•	"apgalve"  nozīmē  apauši
+•	atplaikšķīties  nozīmē atplaiksnīties, parādīties
+•	bārzda  nozīmē bārda
+•	brandviņš  nozīmē brandvīns, degvīns
+•	brūte  nozīmē līgava
+•	deguta  nozīmē bērza tāss darva; tumšs, eļļains šķidrums, ko iegūst, pārtvaicējot bērza tāsi
+•	gausties  nozīmē žēlojoties, vaimanājot paust neapmierinātību
+•	ilkss  nozīmē viena no divām kārtīm, kas piestiprinātas pie ratiem vai ragavām zirga iejūgšanai
+•	irt  nozīmē drupt, šķīst
+•	izbrucināt  nozīmē izasināt
+•	izkārmēt  nozīmē izsalkt
+•	kamieši  nozīmē pleci
+•	kārts  nozīmē pagarš, tievs apaļkoks
+•	klusuciešana  nozīmē klusēšana
+•	kuls  nozīmē klons, virsma, ko parasti veido sablietēts māla vai zemes slānis
+•	kurvis  nozīmē grozs
+•	ķeksis  nozīmē darbarīks, stienis ar (parasti metāla) kāsi galā
+•	ķeša  nozīmē kabata
+•	liess  nozīmē vājš
+•	liksta  nozīmē nelaime, negadījums
+•	mašķi  nozīmē cieti, griezīgi zālaugi.
+•	neviļot, neviļus  nozīmē nejauši, negribēti
+•	pate  nozīmē pati
+•	pestīt  nozīmē glābt, darīt brīvu
+•	pērsla  nozīmē pārsla
+•	plaga  nozīmē arī flaga, kuģa karogs
+•	pluts  nozīmē kaila galvas āda
+•	purslas  nozīmē lūpas
+•	salkt  nozīmē just stipru izsalkumu
+•	salts  nozīmē tāds, kam zema temperatūra
+•	samist  nozīmē nonākt izmisumā
+•	saverkšķīt  nozīmē samiegt, samirkšķināt
+•	skāde  nozīmē zaudējums, bojājums, zudība; arī žēl
+•	skotele  nozīmē ādas vai bieza auduma priekšauts
+•	smeķēt  nozīmē garšot
+•	sūroties  nozīmē paust neapmierinātību
+•	šķausna  nozīmē šķautnains (akmens, ledus) gabals 
+•	tvīkt  nozīmē ilgoties, alkt, degt
+•	telēķis  nozīmē šķīvis
+•	valgums  nozīmē mitrums, slapjums (parasti neliels)
+
+Skaidrojošās vārdnīcas sastādīšanā izmantotie resursi:
+[letonika.lv sinonīmu vārdnīca](https://letonika.lv/groups/default.aspx?g=5&r=1108)
+[tezaurs.lv](https://tezaurs.lv)
+[letonika.lv skaidrojošā vārdnīca](https://letonika.lv/groups/default.aspx?g=1&r=1107)

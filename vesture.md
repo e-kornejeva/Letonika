@@ -149,7 +149,8 @@ Lai gan sabiedrisko pakalpojumu nozarēm nav būtisks devums kopējās PV veido�
 Nodarbinātie.
 Lielākais aizņemto darbvietu īpatsvars komercpakalpojumu nozarēs ir profesionālajos, zinātniskajos un tehniskajos pakalpojumos, administratīvo un apkalpojošo dienestu darbībās un informācijas un komunikācijas pakalpojumu nozarēs, kur pēdējos gados vērojams arī visstraujākais aizņemto darbvietu skaita kāpums.
 
-Latvijas izglītība un zinātne.
+**Latvijas izglītība un zinātne.**
+
 Latvijas izglītības sistēma sastāv no pirmsskolas izglītības, pamatizglītības, vidējās izglītības un augstākās izglītības. Vispārējā izglītība pavisam ilgst 12 gadus, ietverot obligāto deviņgadīgo pamatizglītību un trīsgadīgo vidējo izglītību. Papildus Latvijā ir obligāta pirmsskolas izglītība 5‒6 gadu vecumā. Pamatizglītības pakāpe ietver vispārējo pamatizglītību (1.‒9. klase) un profesionālo pamatizglītību. Vidējās izglītības pakāpe ietver vispārējo vidējo izglītību, profesionālo vidējo izglītību un arodizglītību. Beidzot profesionālās vidējās izglītības programmas (4 gadi), var strādāt vai turpināt studēt augstskolās. Beidzot arodizglītības programmas (3 gadi), var strādāt vai turpināt mācības vidējā izglītībā. Latvijā 2021. gadā darbojas 21 vidējās profesionālās izglītības iestāde.
 
 2019./ 2020. mācību gadā 9. klasi dienas apmācības programmās beidza 16 768 izglītojamie, bet 12. klasi 8768.
@@ -251,11 +252,11 @@ Latvija īsteno savas ārpolitikas prioritātes, aktīvu darbojoties starptautis
 
 ## Latvija, valsts nosaukums
 #### URL: [https://letonika.lv/article.aspx?id=laikakarte](https://enciklopedija.lv/skirklis/8992-Latvija,-valsts-nosaukums)
-#### IMG: [https://letonika.lv/articles/pictures/TIME.GIF](https://enciklopedija.lv/api/image/thumbnail?name=0161cf8ca1bd-3b2fc867-b730-4b0e-874f-69307225b76e.jpg&size=title)
+#### IMG: [https://letonika.lv/articles/pictures/TIME.GIF](https://enciklopedija.lv/api/image/thumbnail?name=0161cf8ca1bd-3b2fc867-b730-4b0e-874f-69307225b76e.jpg)
 
 Vairāk informācijas par Latvijas valsts nosaukumu var lasīt šeit: [https://test-web3.tilde.lv:40033/skirklis/8992-Latvija,-valsts-nosaukums ](https://enciklopedija.lv/skirklis/8992-Latvija,-valsts-nosaukums)
 
-Attēlu var apskatīt šeit: [https://letonika.lv/groups/pictures/firstPages/bilde7.PNG](https://enciklopedija.lv/api/image/thumbnail?name=0161cf8ca1bd-3b2fc867-b730-4b0e-874f-69307225b76e.jpg&size=title)
+Attēlu var apskatīt šeit: [https://letonika.lv/groups/pictures/firstPages/bilde7.PNG](https://enciklopedija.lv/api/image/thumbnail?name=0161cf8ca1bd-3b2fc867-b730-4b0e-874f-69307225b76e.jpg)
 
 **Vietvārda "Latvija" fiksējumi, cilmes hipotēzes**
 

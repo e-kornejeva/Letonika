@@ -324,7 +324,7 @@ Latviju dažkārt uzskata par mazu valsti. Mūsdienās par mazu tiek uzskatītas
 ## Latvijas nacionālie simboli
 #### URL: https://enciklopedija.lv/skirklis/5068-Latvijas-nacion%C4%81lie-simboli
 #### IMG: https://enciklopedija.lv/api/image/thumbnail?name=677829abf27d-0ba70024-945a-4fef-86ce-bb7c9ffa6bf0.jpg
-Vairāk informācijas par Latviju lasīt šeit: https://enciklopedija.lv/skirklis/5068-Latvijas-nacion%C4%81lie-simboli
+Vairāk informācijas par Latvijas tūrisma simboliem lasīt šeit: https://enciklopedija.lv/skirklis/5068-Latvijas-nacion%C4%81lie-simboli
 
 Attēlu var apskatīt šeit: https://enciklopedija.lv/api/image/thumbnail?name=677829abf27d-0ba70024-945a-4fef-86ce-bb7c9ffa6bf0.jpg
 

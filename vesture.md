@@ -320,4 +320,41 @@ Latvijai nav salu jūrā, tuvākās ir Igaunijas salas; Igaunijas Monzunda arhip
 
 Latviju dažkārt uzskata par mazu valsti. Mūsdienās par mazu tiek uzskatītas valstis ar iedzīvotāju skaitu, kas mazāks par 1,5 miljoniem (retāk – mazāk par 5 miljoniem). Dažreiz par kritēriju tiek izmantots valsts teritorijas lielums, nacionālais kopprodukts, spēja veikt nacionāla līmeņa funkcijas vai radīt zināšanas. Mūsdienu Latvijas ilgtspējīgas attīstības stratēģija līdz 2030. gadam definē Latviju par salīdzinoši mazu valsti ar ierobežotiem ekonomiskajiem un dabas resursiem, kurai jāspēj sekot un ātri pielāgoties izmaiņām globālajā pasaules telpā, pēc iespējas efektīvākā veidā izmantojot savas priekšrocības. Citi pētnieki uzskata, ka Latvija pēc dažādiem rādītājiem pārsniedz mazo valstu slieksni un ir ierindojama vidējo valstu grupā. 
 
+## Latvijas nacionālie simboli
+#### URL: https://enciklopedija.lv/skirklis/5068-Latvijas-nacion%C4%81lie-simboli
+#### IMG: https://enciklopedija.lv/api/image/thumbnail?name=677829abf27d-0ba70024-945a-4fef-86ce-bb7c9ffa6bf0.jpg
+Vairāk informācijas par Latviju lasīt šeit: https://enciklopedija.lv/skirklis/5068-Latvijas-nacion%C4%81lie-simboli
+
+Attēlu var apskatīt šeit: https://enciklopedija.lv/api/image/thumbnail?name=677829abf27d-0ba70024-945a-4fef-86ce-bb7c9ffa6bf0.jpg
+
+Nacionālie simboli veicina valsts un tajā dzīvojošās tautas atpazīstamību. Nacionālo simbolu pamatmērķis ir dabas vērtību godināšana un aizsardzība.
+
+Nacionālie simboli tiek izmantoti reklāmās un suvenīru veidošanā. Latvijā par nacionālajiem simboliem ir atzīta baltā cielava, divpunktu mārīte, parastā pīpene, parastais ozols, parastā liepa un dzintars. Balto cielavu, divpunktu mārīti un parasto pīpeni par nacionāliem simboliem apstiprinājušas biedrības, bet ozols, liepa, dzintars par nacionāliem simboliem kļuvuši, balstoties uz latvisko dzīvesziņu un Latvijas ģeogrāfisko novietojumu.
+
+**Baltā cielava**
+
+Baltā cielava ir viena no pasaules 10 un Latvijas 4 cielavu sugām. Cielava asociējas ar lauku sētas vidi, sastopama visā Latvijā, cildināta un apjūsmota folklorā. Starptautiskās putnu aizsardzības padomes (International Council for Bird Preservation, 1922. gadā; kopš 1993. gada – BirdLife International) XII konferencē Tokijā 1960. gadā katrai valstij ieteica izvēlēties kādu tai raksturīgu putnu kā nacionālo simbolu un izmantot to aizsardzības popularizēšanai. Pirmā ideja par balto stārķi bija jānoraida, jo to jau bija izraudzījusies Lietuva un Baltkrievija. Latvijas Dabas un pieminekļu aizsardzības biedrības ornitologi 1965. gadā nolēma, ka nacionālais putns būs baltā cielava. Starptautiskā putnu aizsardzības padome šo lēmumu apstiprināja 1969. gadā. Balto cielavu kā emblēmu izmanto Latvijas Ornitoloģijas biedrība (1985) un Latvijas Dabas muzejs (1845).
+
+**Divpunktu mārīte**
+
+Divpunktu mārīte ir mārīšu dzimtas vabole, viena no visizplatītākajām mārīšu sugām Latvijā. Latvieši izsenis mārītes uzskatījuši par svētu simbolu un saukuši arī par dievgosniņām, bizbizmārītēm. Mārītes latviskais nosaukums ir aizgūts no senlatviešu dievības Māras vārda. Mārīti uzskata arī par veiksmes simbolu. Tā ir arī viens no mīļākajiem bērnu dzejoļu un stāstu varoņiem, arī meitenes vārds. Divpunktu mārīti kā vienu no Latvijas nacionālajiem simboliem 1991. gadā ieteica Latvijas Entomoloģijas biedrība (1951). Divpunktu mārīte ir arī Latvijas Entomoloģijas biedrības simbols.
+
+**Parastā pīpene**
+
+Parastā pīpene jeb margrietiņa ir viens no populārākajiem ziediem. Latvijas novados pīpenei ir sastopami dažādi nosaukumi: grietiņa, govmīža, baltpuķe, babene, asinslapas, mārīte un citi. Pīpeni par nacionālo puķi izraudzījās Botāniķu biedrības (1994) biedri atklātā balsojumā. Parasto pīpeni izmanto tautas medicīnā. Neatvērušos pumpurus var marinēt un izmantot kā kaperus. No pīpenes var iegūt dabīgo krāsvielu dzijas krāsošanai.
+
+**Ozols**
+
+Ozols ir dižskābaržu dzimtas koks. Latvieši ozolu dēvē par Dieva koku, Pasaules koku, Pērkontēva mājokli, kulta koku. Ozols daudz sumināts tautas dziesmās. Parastais ozols ir dižākais Latvijas koks. Ozola koksni lieto mēbeļu rūpniecībā un galdniecībā, finiera, parketa dēlīšu un mucu izgatavošanā. No zīlēm gatavo kafiju. Ozola miza tiek izmantota arī tautas medicīnā. Ozols kā spēka un varenības simbols redzams Latvijas ģerbonī, dažādu organizāciju karogos, naudas zīmēs. “Ozolu vainagu apkārt Latvijai” – ar šādu devīzi 1996. gadā tika uzsākta Latvijas robežas apstādīšana ar ozoliem.
+
+**Liepa**
+
+Liepa latviešiem ir sievišķības simbols. Agrāk latvieši liepu uzskatīja par svētu koku – pie liepām lika ēdienu, vaska rituļus, greznoja to ar cimdiem un prievītēm, izlūdzoties seno dievību labvēlību. Daudzās vietās Latvijā saglabājušās “elku liepas”, tās parasti ir ļoti vecas un nereti sasniedz dižkoka apkārtmērus. Liepa daudz apdziedāta latviešu tautas dziesmās. Liepu koksne ir mīksta un viegla, to izmanto mēbeļu, trauku, karošu, kokļu izgatavošanai. Liepu slotiņas izmanto pirtī. Liepu ziedu tēju izmanto arī tautas medicīnā.
+
+**Dzintars**
+
+Dzintars, dēvēts arī par Saules akmeni, dzītaru, zītaru, kopš aizvēsturiskiem laikiem Latvijā bijis nozīmīgs dārgakmens, nereti arī Latvija dēvēta par Dzintarzemi jeb Zītara zemi. Baltijas jūra tiek saukta par Dzintarjūru. Pateicoties tieši dzintaram, tagadējās Latvijas teritorijas iedzīvotājus iepazina pārējā pasaule, kad Senās Romas un Grieķijas kartēs iezīmēja toreizējo teritoriju kā galējo ziemeļu punktu, no kura sākas dzintara ceļš. Vārds “dzintars” bieži izmantots nosaukumos, piemēram, kosmētikas ražotne “Dzintars”, mūzikas festivāls “Liepājas dzintars”, skulptūra “Dzintara pulkstenis”, “Dzintaru koncertzāle”, koncertzāle “Lielais dzintars” un citi. Mūsdienās arvien plašāk dzintars tiek izmantots kosmētikas produktu ražošanā, farmācijā. Dzintara diegu izmanto gan medicīnā, gan tekstilmākslā un suvenīru gatavošanā.
+
+
+
 

@@ -280,11 +280,11 @@ Par nosacītiem eksonīmiem (nosaukumiem, kas atšķiras no oriģinālvalodā li
 
 ## Latvijas teritorija
 #### URL: https://enciklopedija.lv/skirklis/25886 
-#### IMG: https://enciklopedija.lv/api/image/thumbnail?name=75cacf36ef03-f520658b-79cb-4e99-a100-722e9cba2ea4.jpg&size=title
+#### IMG: https://enciklopedija.lv/api/image/thumbnail?name=75cacf36ef03-f520658b-79cb-4e99-a100-722e9cba2ea4.jpg
 
 Vairāk informācijas par Latvijas teritoriju var lasīt šeit: https://enciklopedija.lv/skirklis/25886
 
-Attēlu var apskatīt šeit: https://enciklopedija.lv/api/image/thumbnail?name=75cacf36ef03-f520658b-79cb-4e99-a100-722e9cba2ea4.jpg&size=title
+Attēlu var apskatīt šeit: https://enciklopedija.lv/api/image/thumbnail?name=75cacf36ef03-f520658b-79cb-4e99-a100-722e9cba2ea4.jpg
 
 
 **Latvijas teritorijas raksturojums**
@@ -356,6 +356,39 @@ Liepa latviešiem ir sievišķības simbols. Agrāk latvieši liepu uzskatīja p
 
 Dzintars, dēvēts arī par Saules akmeni, dzītaru, zītaru, kopš aizvēsturiskiem laikiem Latvijā bijis nozīmīgs dārgakmens, nereti arī Latvija dēvēta par Dzintarzemi jeb Zītara zemi. Baltijas jūra tiek saukta par Dzintarjūru. Pateicoties tieši dzintaram, tagadējās Latvijas teritorijas iedzīvotājus iepazina pārējā pasaule, kad Senās Romas un Grieķijas kartēs iezīmēja toreizējo teritoriju kā galējo ziemeļu punktu, no kura sākas dzintara ceļš. Vārds “dzintars” bieži izmantots nosaukumos, piemēram, kosmētikas ražotne “Dzintars”, mūzikas festivāls “Liepājas dzintars”, skulptūra “Dzintara pulkstenis”, “Dzintaru koncertzāle”, koncertzāle “Lielais dzintars” un citi. Mūsdienās arvien plašāk dzintars tiek izmantots kosmētikas produktu ražošanā, farmācijā. Dzintara diegu izmanto gan medicīnā, gan tekstilmākslā un suvenīru gatavošanā.
 
+## Latvijas nacionālā virtuve
+#### URL: https://enciklopedija.lv/skirklis/4980-nacion%C4%81l%C4%81-virtuve-Latvij%C4%81
+#### IMG: https://enciklopedija.lv/api/image/thumbnail?name=67ec394c2405-44782355-da69-49e6-a122-0c47ea014862.jpg
+Vairāk informācijas par Latvijas nacionālo virtuvi lasīt šeit: https://enciklopedija.lv/skirklis/4980-nacion%C4%81l%C4%81-virtuve-Latvij%C4%81
 
+Attēlu var apskatīt šeit: https://enciklopedija.lv/api/image/thumbnail?name=67ec394c2405-44782355-da69-49e6-a122-0c47ea014862.jpg
 
+Nacionālā virtuve saskaņā ar klimatiskajiem, ģeogrāfiskajiem un vēsturiskajiem apstākļiem ir gadsimtu gaitā izveidojies pārtikas izejvielu, to pagatavošanas un ēšanas paradumu tradīciju kopums, kas raksturīgs vairumam valsts iedzīvotāju.
+
+Latvijai raksturīga virtuve, ko nosaka Ziemeļaustrumeiropas klimats. Vēsturiski tā veidojusies zemnieku vidē, izmantojot pārtikā vietējo augu un dzīvnieku valsts produktus un cilvēku zināšanas un prasmes izejvielu ieguvē, audzēšanā un ēdienu gatavošanā.
+
+Pirmie iedzīvotāji Latvijas teritorijā nodarbojās ar medībām un zveju, patērējot pārtikā medījuma gaļu (briežus, aļņus, mežacūkas), saldūdens un sālsūdens zivis, ogas, riekstus, sēklas, sēnes. Lopkopība tika ieviesta no 2. gs. p. m. ē. sākuma. Pirmie mājlopi bija govis, zirgi, cūkas, aitas un kazas. No 2. gs. p. m. ē. vidus audzēti parastie mieži, vēlāk divgraudu kvieši, prosa (sāre), lauka pupas, sējas zirņi, sējas auzas, parastie rudzi. Mūsu ēras 2. gs. sākumā sāka audzēt ēdamās lēcas, sējas kaņepes, sējas rāceņus, cigoriņus. Parastie griķi audzēti kopš 15. gs. Sākotnēji labība patērēta, vārot veselus graudus vai putras, un tikai kopš 10. gs., kad tika ieviestas rokas dzirnavas un maizes krāsnis, papildus cepta raudzēta miežu un rudzu maize.
+
+Piena izmantošana uzturā sākās 1. gs. p. m. ē. Vērtīgākais piena produkts bija sviests, kas visā Eiropas ziemeļu daļā kļuva par vienu no galvenajām nodevu, tirgus un laupījumu precēm. Sviesta ilgāku uzglabāšanu veicināja Hanzas tirgotāju ievestā sāls. Parādījās arī no biezpiena gatavots skābpiena siers. Piens, sviests un siers izveidojās par būtisku godu un rituāla maltītes daļu latviešu tradīcijās. Krējums ilgstoši bija tikai sviesta ražošanas starpprodukts, tā patērēšana uzturā sākās ap 18. gs.
+
+Tradicionālie dzērieni Latvijā ir ūdens, svaigas un raudzētas bērzu sulas, zāļu tējas, kuru lietojums nereti saistīts ar to ārstnieciskajām īpašībām. No reibinošajiem dzērieniem jau kopš akmens laikmeta ir patērēts raudzēts, ar ūdeni atšķaidīts medus. Reizē ar miežu audzēšanu ieviesās arī alus. 17. gs. otrajā pusē zemniekiem kļuva pieejams degvīns.
+
+18. un 19. gs. mijā zemnieki sāka audzēt kartupeļus. Līdz 19. gs. vidum zemnieku saimniecības bija naturālas, pirka tikai sāli. Tradicionāli ēdienus vārīja, sālīja vai skābēja. Gaļu uzturā lietoja svētkos, ikdienā uzturs bija trūcīgs. Līdz tam dažādi jauninājumi ienāca lēni un pastarpinātā veidā caur muižām, kuru virtuve atspoguļoja vairāku Eiropas tautu kultūrvēsturiskās ietekmes. 19. gs. otrajā pusē zemnieki ieviesa plītis, sāka ēdienu cept. Pateicoties pavārgrāmatu un periodikā publicētu recepšu un ēdiena gatavošanas pamācībām, kungu virtuve parādījās zemnieku svētku galdā un tika pielāgota zemnieku tradīcijām un iespējām. Zemnieki sāka gatavot salātus, eļļas vietā pievienojot krējumu. Kopš 19. gs. beigām uzturā sāka lietot cukuru, parādījās saldie ēdieni: ogu un augļu ķīselis, debesmanna, buberts, cepumi, plātsmaizes, kūkas.
+
+Starpkaru periodā pieauga interese par uztura dažādošanu, kvalitāti un galda kultūru, kā arī par latviskiem ēdieniem, īpaši svētkos. Valstiski tika veicināta nacionālā pašapziņa, kas izpaudās ēdienu izvēlē, vietējās zemnieku produkcijas patērēšanā (piens, sviests, olas, bekons), t. sk. cukura lietošanā, atbalstot cukura ražotājus. Tika izkopta tradīcija gatavot bagātīgi dekorētas aukstās uzkodas un cept tortes.
+
+Padomju okupācijas periodam raksturīgs pieticīgs uzturs ikdienā un iespēju robežās bagātīgs svētku galds, kurā parādās deficīta preces. Šajā laikā latviešu virtuvē nostabilizējās aukstie gaļas salāti – rasols, zivju delikateses, dzirkstošais vīns svētku galdā, kā arī no citām republikām ienākuši ēdieni, piemēram, šašliks, soļanka, pelmeņi. Tautā populāra bija ēdiena krājumu gatavošana ziemai, vārot ievārījumus, konservējot augļus un marinējot dārzeņus.
+
+Pēc Latvijas neatkarības atjaunošanas, neskatoties uz trūcību, bija raksturīga jauniegūto iespēju izmantošana virtuvē, iegādājoties eksotiskus augļus un pārtikas produktus, kā arī izmēģinot visdažādākos ēdienus. Ēdienkartē tika iekļauts jogurts, brokastu pārslas. Svētku galdā parādījās steiks, bārbekjū, fondī, krabju salāti, saldējums. Modē nāca dzirkstošie bezalkoholiskie dzērieni un kokteilis džins ar toniku. Parādījās arī ātrās apkalpošanas ēdināšanas uzņēmumi, ikdienas uzturu papildinot ar burgeriem, eļļā ceptiem kartupeļiem un picu. Pēc Latvijas neatkarības atjaunošanas savu nozīmi atguva vairāki seni latviskie ēdieni, kas padomju laikos netika uzskatīti par nacionālās virtuves vērtībām: sklandrauši, zirņi ar speķi, ķimeņu siers, kūpinātas zivis, rudzu rupjmaize, maizes zupa, medus, kvass, bērzu sula.
+
+Mūsdienās pārtikas ražotāju skaits ir pieaudzis: ir daudz nelielu piena un gaļas produktu ražotņu, alus darītavu, maizes ceptuvju, konditoreju. Piedāvāto produktu klāsts ir ļoti plašs. Latvijā, tāpat kā visā pasaulē, kulinārās tradīcijas vairs nav izolētas, tās ietekmē pieaugošā globalizācija. Pēdējos gados popularitāti ir iekarojusi Āzijas virtuve, īpaši suši. Arvien būtiskāk patērētājiem ir ēst veselīgu, liesu ēdienu, pievēršot uzmanību pārtikas izcelsmei un iegādājoties bioloģiski audzētus produktus. Populārākas kā jebkad ir dažādas diētas: veģetārā, vegānā, svaigēdāju, paleo, proteīna, cukuru, lipekli vai laktozi nesaturoša, asinsgrupai piemērota.
+
+Ikdienas ēdienkarte Latvijā.
+Ikdienā cilvēki brokastīs ēd maizītes ar sieru, šķiņķi vai tomātiem, vārītas olas, putru vai brokastu pārslas ar pienu, biezpienu ar krējumu, biezpiena sieriņus. Pie maltītēm daudzi dzer kafiju, tēju, pienu, sulas, kefīru. Pusdienas visbiežāk tiek ēstas no plkst. 12.00 līdz 15.00 un bieži iekļauj vairākus ēdienus: zupu, gaļas vai zivs ēdienu ar kartupeļiem, rīsiem, dārzeņiem, mērci, saldo ēdienu vai smalkmaizītes ar tēju vai kafiju. Vakariņās bieži tiek ēsts pusdienām līdzīgs ēdiens vai arī vieglāk pagatavojams ēdiens: dārzeņu salāti vai sautējums, pankūkas, putra, maizītes. Vasarā populārs ēdiens ir biešu aukstā zupa, pavasarī – skābeņu zupa, ziemā – gaļas un piena zupas. Populārākie gaļas ēdieni ir cūkgaļas karbonāde, kotletes, desiņas, vistas gaļa ar mērci. Ēdot ārpus mājas, cilvēki bieži izvēlas ātrās uzkodas. Svinīgos gadījumos ārpus mājas cenšas ēst netradicionālus un eksotiskus ēdienus. Tomēr arī svētkos vēl arvien populāri ir tipiski latviskie cūkgaļas ēdieni ar vārītiem vai ceptiem kartupeļiem un sautētiem skābiem kāpostiem. Dažkārt gaļas vietā izvēlas zivi: lasi, foreli, karpu, kā arī ēd zivju salātus vai siļķi kažokā. Svētkos neiztiek bez rasola, aukstajām gaļas uzkodām un salātiem, speķa pīrāgiem, augļiem, vīna. Svētku galdā arvien lielāks uzsvars uz saldajiem ēdieniem, kūkām, tortēm.
+
+Nacionālās virtuves un vietējās produkcijas popularizēšanai Latvijā organizētas akcijas: “Izvēlies Latvijas preci”, “Zaļā karotīte”, uzlīmes produktiem “Audzēts Latvijā”, regulāri notiek zemnieku tirdziņi, kulinārijas svētki, piemēram, Gastronomijas festivāls, Rīgas restorānu nedēļa, ikgadējā izstāde RigaFood. Ar pavāru prasmēm un izdomu iepazīstina profesionāli konkursi un TV raidījumi. Pirms gadskārtu svētkiem lielveikalu un pārtikas ražotāju reklāmās tiek uzsvērti tradicionālie ēdieni un dzērieni. Tradicionālo ēdienu gatavošanu popularizē Latvijas Nacionālā kultūras centra organizētā ikgadējā akcija “Satiec savu meistaru”, projekts “Garšīgā Latvija”, pilsētu, zvejnieku un ražas svētki, muzeji.
+
+Latvijas nacionālo virtuvi popularizē svešvalodās izdotas pavārgrāmatas, reklāma ārvalstu tūristu piesaistīšanai. Latvijas pavāru gatavotas maltītes no vietējiem produktiem iekļauj starptautisku pasākumu programmās, izmanto Latvijas reprezentācijas pasākumiem ārzemēs. Tautā mīlētā rupjmaize, šokolādes konfektes un dzērieni – “Rīgas melnais balzams” un vietējais alus, piemēram, “Valmiermuižas alus”, “Tērvetes alus”, “Bauskas alus”, “Piebalgas alus”, “Užavas alus”, – kļuvuši par suvenīriem. Lai popularizētu Latvijas pārtikas produktus ārvalstīs, izveidots tiešsaistes katalogs “Foodlatvia.com”.
+
+Latvijas nacionālie produkti ieguvuši Eiropas Savienības (ES) aizsardzību un iekļauti ES reģistrēto pārtikas produktu nosaukumu datubāzē DOOR (Databse of Origin & Registration). Aizsargāti ģeogrāfiskās izcelsmes produkti ir Latvijas lielie pelēkie zirņi, Carnikavas nēģi, Rucavas baltais sviests. Aizsargāts cilmes vietas nosaukuma produkts ir Latvijas pelēkie zirņi. Produkti ar garantētām tradicionālām īpatnībām ir Jāņu siers, sklandrausis un salinātā rudzu rupjmaize.
 
